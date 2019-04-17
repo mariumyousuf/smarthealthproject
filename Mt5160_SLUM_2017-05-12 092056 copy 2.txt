@@ -1,0 +1,106 @@
+PatientID: Mt5160
+Education: 
+Sex: Male
+DOB: 1943/10/06
+Date: 2017/05/12
+Patient Alert: Yes
+Comment: 
+Shake Timestamp: 1494598855192
+
+Q1
+Score: 1
+Comment: 
+STStamp: 1494598860909
+ETStamp: 1494598875409
+
+Q2
+Score: 1
+Comment: 
+STStamp: 1494598878121
+ETStamp: 1494598885635
+
+Q3
+Score: 1
+Comment: 
+STStamp: 1494598889964
+ETStamp: 1494598897696
+
+Q5_1
+ STStamp: 1494598923175
+ETStamp: 1494598938713
+
+
+Q5_1
+ STStamp: 1494598950220
+ETStamp: 1494598966140
+
+
+Q5
+Score: 0
+Comment: 
+STStamp: 1494598966140
+ETStamp: 1494598975987
+
+Q6
+Score: 3
+Comment: 
+STStamp: 1494598978584
+ETStamp: 1494599028636
+
+Q7
+Score: 5
+Comment: 
+STStamp: 1494599031531
+ETStamp: 1494599053362
+
+Q8
+Score: 2
+Comment: 
+STStamp: 1494599081186
+ETStamp: 1494599101370
+
+Q9
+Score: 4
+Comment: Numbers disappeared 
+STStamp: 1494599117149
+ETStamp: 1494599194790
+
+Q10
+Score: 1
+Comment: 
+STStamp: 1494599200540
+ETStamp: 1494599217626
+
+Q11
+Score: 1
+Comment: 
+STStamp: 1494599221887
+ETStamp: 1494599232111
+
+Q12_1
+ STStamp: 1494599236128
+ETStamp: 1494599283574
+
+
+Q12_2
+ STStamp: 1494599283574
+ETStamp: 1494599289170
+
+
+Q12_3
+ STStamp: 1494599289170
+ETStamp: 1494599297639
+
+
+Q12_4
+ STStamp: 1494599297639
+ETStamp: 1494599307315
+
+
+Q12
+Score: 6
+Comment: 
+STStamp: 1494599307315
+ETStamp: 1494599321485
+
+ Finale Score: 25
