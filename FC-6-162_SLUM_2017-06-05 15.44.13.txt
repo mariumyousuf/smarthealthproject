@@ -1,0 +1,106 @@
+PatientID: FC-6-162
+Education: College
+Sex: Female
+DOB: 1965/03/31
+Date: 2017/06/05
+Patient Alert: Yes
+Comment: 
+Shake Timestamp: 1496695411739
+
+Q1
+Score: 1
+Comment: 
+STStamp: 1496695475818
+ETStamp: 1496695484400
+
+Q2
+Score: 1
+Comment: 
+STStamp: 1496695487426
+ETStamp: 1496695495311
+
+Q3
+Score: 1
+Comment: 
+STStamp: 1496695498414
+ETStamp: 1496695505321
+
+Q5_1
+ STStamp: 149669553017
+ETStamp: 149669554489
+
+
+Q5_2
+ STStamp: 149669559652
+ETStamp: 1496695603146
+
+
+Q5
+Score: 3
+Comment: 
+STStamp: 1496695603146
+ETStamp: 1496695618117
+
+Q6
+Score: 3
+Comment: 
+STStamp: 1496695621436
+ETStamp: 1496695698853
+
+Q7
+Score: 4
+Comment: 
+STStamp: 1496695702480
+ETStamp: 1496695738557
+
+Q8
+Score: 2
+Comment: 
+STStamp: 1496695768100
+ETStamp: 1496695786781
+
+Q9
+Score: 2
+Comment: 
+STStamp: 1496695786781
+ETStamp: 1496695853538
+
+Q10
+Score: 1
+Comment: 
+STStamp: 1496695864155
+ETStamp: 1496695883452
+
+Q11
+Score: 1
+Comment: 
+STStamp: 1496695883452
+ETStamp: 1496695909823
+
+Q12_1
+ STStamp: 1496695918223
+ETStamp: 1496695965466
+
+
+Q12_2
+ STStamp: 1496695965466
+ETStamp: 1496695973481
+
+
+Q12_3
+ STStamp: 1496695973481
+ETStamp: 1496695980182
+
+
+Q12_4
+ STStamp: 1496695980182
+ETStamp: 1496695989492
+
+
+Q12
+Score: 8
+Comment: 
+STStamp: 1496695989492
+ETStamp: 1496695999950
+
+ Finale Score: 27
